@@ -1,18 +1,98 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Improving my problem-solving skills using C++ and building small projects to understand real-world programming concepts.<br><br>👯 I’m looking to collaborate on<br>Beginner to intermediate C++ projects, data structures, and logic-building problems.<br><br>🤝 I’m looking for help with<br>Advanced DSA concepts, clean code practices, and project optimization.<br><br>🌱 I’m currently learning<br>C++, Data Structures & Algorithms, and basic software development workflows.<br><br>💬 Ask me about<br>C++, arrays, loops, patterns, basic DSA, and learning programming from scratch.<br><br>⚡ Fun fact<br>I believe errors are the best teachers—if you don’t face bugs, you’re not learning enough 🚀
+<!-- 🔥 Animated Banner -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Deepak%20Choudhary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@deepak.dcode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-choudhary-016b382b4) 
+<h1 align="center">🚀 Full Stack Developer in Progress</h1>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DEEPAKCHY920&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DEEPAKCHY920&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKCHY920&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  💻 Building Projects | ⚡ Learning DSA | 🎯 Placement 2026
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DEEPAKCHY920&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+✨ I’m a passionate developer focused on building real-world projects
+💰 Currently building **Zenvora (Fintech UI like Wise)**
+📈 Improving problem-solving & DSA daily
+🎯 Goal: Crack top tech companies in 2026
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Zenvora — Fintech UI
+
+🔗 https://github.com/DEEPAKCHY920/zenvora
+
+🔥 Features:
+
+* Modern UI inspired by Wise
+* Clean dashboard
+* Smooth UX
+
+📸 Add screenshots here
+
+---
+
+### 🤖 AI Chatbot (Build This Next 🔥)
+
+* Smart replies
+* Web integration
+* Real-world use case
+
+---
+
+### 🌐 Portfolio Website
+
+* Personal branding
+* Live projects showcase
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAKCHY920&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKCHY920&theme=tokyonight" />
+</p>
+
+---
+
+## 🧲 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPAKCHY920&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-choudhary-016b382b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Developer Mindset
+
+💬 *"I don’t just learn code — I build products."*
+⚡ *"Consistency > Motivation"*
+🚀 *"From beginner to placement-ready — in public."*
+
+---

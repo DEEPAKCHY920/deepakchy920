@@ -1,5 +1,4 @@
 <!-- 🔥 Animated Banner -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Deepak%20Choudhary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -14,20 +13,26 @@
 
 ## 🧠 About Me
 
-✨ I’m a passionate developer focused on building real-world projects
-💰 Currently building **Zenvora (Fintech UI like Wise)**
-📈 Improving problem-solving & DSA daily
-🎯 Goal: Crack top tech companies in 2026
+✨ Passionate developer focused on building real-world projects  
+💰 Currently building **Zenvora (Fintech UI inspired by Wise)**  
+📈 Practicing DSA daily to improve problem-solving  
+🎯 Goal: Crack top tech companies in 2026  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,c" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,c" />
 </p>
+
+### 💡 Skills Breakdown
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (Learning):** Node.js, Express  
+- **Programming:** C++, Python, C  
+- **Tools:** Git, GitHub, VS Code  
+- **Core Concepts:** DSA, OOP  
 
 ---
 
@@ -35,30 +40,42 @@
 
 ### 💰 Zenvora — Fintech UI
 
-🔗 https://github.com/DEEPAKCHY920/zenvora
+🔗 https://github.com/DEEPAKCHY920/zenvora  
 
 🔥 Features:
+- Modern fintech dashboard UI  
+- Clean and responsive layout  
+- Smooth user experience  
+- Inspired by Wise  
 
-* Modern UI inspired by Wise
-* Clean dashboard
-* Smooth UX
+🌐 Live Demo: *(Add after deploy)*  
 
-📸 Add screenshots here
+📸 Screenshots:  
+> Add 2–3 UI screenshots here for better impact  
 
 ---
 
-### 🤖 AI Chatbot (Build This Next 🔥)
+### 🤖 AI Chatbot (Coming Soon 🚧)
 
-* Smart replies
-* Web integration
-* Real-world use case
+- Smart AI-based replies  
+- API integration  
+- Real-world use case  
 
 ---
 
 ### 🌐 Portfolio Website
 
-* Personal branding
-* Live projects showcase
+- Personal branding  
+- Projects showcase  
+- Clean UI design  
+
+---
+
+## 🏆 Achievements
+
+- 📌 Solving DSA problems daily  
+- 📌 Building real-world projects  
+- 📌 Active GitHub learner  
 
 ---
 
@@ -79,6 +96,15 @@
 
 ---
 
+## 📈 Coding Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-ComingSoon-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Codeforces-ComingSoon-blue?style=for-the-badge&logo=codeforces"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -91,8 +117,14 @@
 
 ## 🔥 Developer Mindset
 
-💬 *"I don’t just learn code — I build products."*
-⚡ *"Consistency > Motivation"*
+💬 *"I don’t just learn code — I build products."*  
+⚡ *"Consistency > Motivation"*  
 🚀 *"From beginner to placement-ready — in public."*
 
 ---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEEPAKCHY920&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
